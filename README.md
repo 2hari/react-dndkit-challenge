@@ -5,7 +5,7 @@ https://github.com/2hari/react-dndkit-challenge/assets/73457568/fbd669ec-773a-4a
 
 ## 🔨 Built With
 
-- [DnD-kit](https://dndkit.com/))
+- [DnD-kit](https://dndkit.com/)
 - [Next.js](https://nextjs.org/)
 - [Radix UI](https://www.radix-ui.com/)
 - [TailwindCSS](https://tailwindcss.com/)
