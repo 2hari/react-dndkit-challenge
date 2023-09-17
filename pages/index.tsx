@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react"
 import { v4 as uuidv4 } from "uuid"
-
+import Head from 'next/head'
 // DnD
 import {
   DndContext,
@@ -332,6 +332,9 @@ export default function Home() {
 
   return (
     <div className="mx-auto max-w-7xl py-10">
+      <Head>
+        <title>DnD kit Kanban</title>
+      </Head>
       {/* Add Container Modal */}
       <Modal
         showModal={showAddContainerModal}
